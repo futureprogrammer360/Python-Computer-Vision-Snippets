@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:img} = cv2.rotate(${2:img}, ${3:cv2.ROTATE_90_CLOCKWISE})
+]]></content>
+    <tabTrigger>rotate</tabTrigger>
+    <scope>source.python</scope>
+    <description>cv2.rotate</description>
+</snippet>

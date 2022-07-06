@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:img} = cv2.resize(${2:img}, ${3:dim})
+]]></content>
+    <tabTrigger>resize</tabTrigger>
+    <scope>source.python</scope>
+    <description>cv2.resize</description>
+</snippet>

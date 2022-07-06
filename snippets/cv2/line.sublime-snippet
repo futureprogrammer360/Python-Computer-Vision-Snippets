@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cv2.line(${1:img}, ${2:pt1}, ${3:pt2}, ${4:color}, ${5:thickness})
+]]></content>
+    <tabTrigger>line</tabTrigger>
+    <scope>source.python</scope>
+    <description>cv2.line</description>
+</snippet>

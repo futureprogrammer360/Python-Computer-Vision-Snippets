@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:img} = cv2.cvtColor(${2:img}, ${3:cv2.COLOR_BGR2GRAY})
+]]></content>
+    <tabTrigger>cvtColor</tabTrigger>
+    <scope>source.python</scope>
+    <description>cv2.cvtColor</description>
+</snippet>

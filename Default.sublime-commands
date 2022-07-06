@@ -1,0 +1,9 @@
+[
+    {
+        "caption": "Python Computer Vision Snippets: Open Readme",
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/Python Computer Vision Snippets/README.md"
+        }
+    }
+]

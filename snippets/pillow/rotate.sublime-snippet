@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:im} = ${2:im}.rotate(${3:angle})
+]]></content>
+    <tabTrigger>rotate</tabTrigger>
+    <scope>source.python</scope>
+    <description>Image.rotate</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cv2.destroyAllWindows()
+]]></content>
+    <tabTrigger>destroyAllWindows</tabTrigger>
+    <scope>source.python</scope>
+    <description>cv2.destroyAllWindows</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:im} = Image.fromarray(${2:array})
+]]></content>
+    <tabTrigger>fromarray</tabTrigger>
+    <scope>source.python</scope>
+    <description>PIL.Image.fromarray</description>
+</snippet>

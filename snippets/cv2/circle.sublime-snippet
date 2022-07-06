@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cv2.circle(${1:img}, ${2:center}, ${3:radius}, ${4:color}, ${5:thickness})
+]]></content>
+    <tabTrigger>circle</tabTrigger>
+    <scope>source.python</scope>
+    <description>cv2.circle</description>
+</snippet>

@@ -1,0 +1,9 @@
+Greetings fellow computer vision enthusiast,
+
+Thank you for installing the Python Computer Vision Snippets package. This is a collection of useful snippets for computer vision and image processing in Python.
+
+To see the snippets available, check out the README.md file via the `Python Computer Vision Snippets: Open Readme` command in command palette.
+
+Enjoy!
+
+GitHub homepage: https://github.com/futureprogrammer360/Python%20Computer%20Vision%20Snippets

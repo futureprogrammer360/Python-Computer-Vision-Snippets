@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:img} = cv2.imread(${2:filename})
+]]></content>
+    <tabTrigger>imread</tabTrigger>
+    <scope>source.python</scope>
+    <description>cv2.imread</description>
+</snippet>

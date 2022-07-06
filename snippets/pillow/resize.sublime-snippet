@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:im} = ${2:im}.resize(${3:size})
+]]></content>
+    <tabTrigger>resize</tabTrigger>
+    <scope>source.python</scope>
+    <description>Image.resize</description>
+</snippet>

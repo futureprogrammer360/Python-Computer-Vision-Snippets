@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:im} = ${2:im}.convert(${3:mode})
+]]></content>
+    <tabTrigger>convert</tabTrigger>
+    <scope>source.python</scope>
+    <description>Image.convert</description>
+</snippet>

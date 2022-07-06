@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:cap} = cv2.VideoCapture(${2:0})
+]]></content>
+    <tabTrigger>VideoCapture</tabTrigger>
+    <scope>source.python</scope>
+    <description>cv2.VideoCapture</description>
+</snippet>

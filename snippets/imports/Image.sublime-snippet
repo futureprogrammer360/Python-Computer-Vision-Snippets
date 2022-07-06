@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+from PIL import Image
+]]></content>
+    <tabTrigger>iImage</tabTrigger>
+    <scope>source.python</scope>
+    <description>from PIL import Image</description>
+</snippet>

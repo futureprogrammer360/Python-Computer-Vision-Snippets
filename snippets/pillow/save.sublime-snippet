@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:im}.save(${2:filename})
+]]></content>
+    <tabTrigger>save</tabTrigger>
+    <scope>source.python</scope>
+    <description>Image.save</description>
+</snippet>

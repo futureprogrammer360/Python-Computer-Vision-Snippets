@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:im} = ${2:im}.crop(${3:box})
+]]></content>
+    <tabTrigger>crop</tabTrigger>
+    <scope>source.python</scope>
+    <description>Image.crop</description>
+</snippet>

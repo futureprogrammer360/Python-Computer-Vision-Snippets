@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cv2.imshow(${1:title}, ${2:img})
+]]></content>
+    <tabTrigger>imshow</tabTrigger>
+    <scope>source.python</scope>
+    <description>cv2.imshow</description>
+</snippet>
