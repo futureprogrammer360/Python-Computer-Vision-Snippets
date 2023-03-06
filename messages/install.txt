@@ -6,4 +6,4 @@ To see the snippets available, check out the README.md file via the `Python Comp
 
 Enjoy!
 
-GitHub homepage: https://github.com/futureprogrammer360/Python%20Computer%20Vision%20Snippets
+GitHub homepage: https://github.com/futureprogrammer360/Python-Computer-Vision-Snippets
